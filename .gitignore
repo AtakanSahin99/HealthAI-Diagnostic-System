@@ -1,0 +1,15 @@
+# Python gitignore
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+env/
+ENV/
+.ipynb_checkpoints/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
